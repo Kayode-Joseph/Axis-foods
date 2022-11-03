@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-axisfoods-staging-105723-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112455098040:role/amplify-axisfoods-staging-105723-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112455098040:role/amplify-axisfoods-staging-105723-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-axisfoods-staging-105723-deployment",
+      "UnauthRoleName": "amplify-axisfoods-staging-105723-unauthRole",
+      "StackName": "amplify-axisfoods-staging-105723",
+      "StackId": "arn:aws:cloudformation:us-east-1:112455098040:stack/amplify-axisfoods-staging-105723/83db69b0-31c0-11ed-9958-0ee0c0951ab5",
+      "AmplifyAppId": "d19dwmmfur1mqm"
+    },
+    "categories": {
+      "auth": {
+        "axisfoods": {}
+      }
+    }
+  }
+}
